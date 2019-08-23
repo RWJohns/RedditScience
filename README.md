@@ -6,7 +6,7 @@ Project Overview:
 A huge number of hours go into moderating online forums, and with the rise of trolls many sites are even throwing up their hands and removing comment sections all together. Here I will see if it is possible to use NLP to identify which comments were flagged for moderation based on their content. The data set contains popular comments that have both stayed on Reddit and were removed by moderators. 
 
 Data Sources:
-Kaggle Reddit Popular Science Comments (Dataset Link)[https://github.com/RWJohns/RedditScience.git]
+Kaggle Reddit Popular Science Comments (Dataset Link)[https://www.kaggle.com/areeves87/rscience-popular-comment-removal]
 
 Methodology:
 EDA of dataset and identify key words and phrases that appear often throughout the comments
